@@ -1,0 +1,42 @@
+/* Admin Layout Styles */
+.adminWrapper {
+  min-height: 100vh;
+}
+
+/* Navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: auto;
+  transition: all 0.3s ease-in-out;
+  z-index: 1039;
+}
+
+.navbarExpanded {
+  left: 240px;
+  width: calc(100% - 240px);
+}
+
+.navbarCollapsed {
+  left: 70px;
+  width: calc(100% - 70px);
+}
+
+/* Toggle Button */
+.toggleButton {
+  border: none !important;
+  font-size: 1.25rem;
+}
+
+/* Search Input */
+.searchInput {
+  min-width: 225px;
+}
+
+/* Main Content */
+.mainContent {
+  margin-top: 58px;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}

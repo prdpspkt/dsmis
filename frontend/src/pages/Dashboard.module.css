@@ -1,0 +1,17 @@
+/* Dashboard Styles */
+
+/* Revenue Chart */
+.revenueChart {
+  height: 380px;
+}
+
+/* Vehicle Utilization Progress Container */
+.utilizationContainer {
+  display: inline-block;
+  min-width: 120px;
+}
+
+/* Progress Bar */
+.progressThin {
+  height: 7px;
+}

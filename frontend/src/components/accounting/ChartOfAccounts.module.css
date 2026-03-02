@@ -1,0 +1,14 @@
+/* Chart of Accounts Styles */
+
+/* Table Column Widths */
+.codeColumn {
+  width: 100px;
+}
+
+.balanceColumn {
+  width: 100px;
+}
+
+.actionsColumn {
+  width: 100px;
+}
