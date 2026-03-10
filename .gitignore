@@ -1,0 +1,9 @@
+.claude
+.idea
+GRAPHQL_ACCOUNTING_API.md
+cookies.txt
+IMPLEMENTATION_SUMMARY.md
+nul
+__pycache__/
+*.py[cod]
+*$py.class

@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+nul
+.next
+CONSOLIDATION_REPORT.md
+README.md
